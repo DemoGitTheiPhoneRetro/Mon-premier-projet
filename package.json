@@ -1,5 +1,5 @@
 {
-  "name": "ProjetIonic",
+  "name": "myfirstproject",
   "author": "Dessus Dimitri",
   "homepage": "http://dimitridessus.fr/",
   "private": true,
@@ -48,5 +48,5 @@
       "locator": "ios"
     }
   ],
-  "description": "Mon-premier-projet: An Ionic project"
+  "description": "Mon-premier-projet: Un super projet ionic 2 !!!"
 }
