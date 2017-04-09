@@ -1,7 +1,7 @@
 {
-  "name": "ionic-hello-world",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "name": "ProjetIonic",
+  "author": "Dessus Dimitri",
+  "homepage": "http://dimitridessus.fr/",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
